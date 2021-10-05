@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DNK for user</string>
+    <string name="contact">Mời bạn liên hệ với trung tâm DNK để đăng ký tài khoản.\nThông tin liên hệ:\n\t - Ông: Đỗ Chiếm Dương\n\t - Email: chiemduong.dp.cntt@gmail.com\n\t - SDT: 0976453651</string>
+    <string name="lock">Tài khoản của bạn đã bị khóa, vui lòng liên hệ trung tâm DNK để biết thêm chi tiết.\nThông tin liên hệ:\n\t - Ông: Đỗ Chiếm Dương\n\t - Email: chiemduong.dp.cntt@gmail.com\n\t - SDT: 0976453651</string>
+    <string name="regis_success">Phía trung tâm đã nhận được đơn đăng ký của bạn. Vui lòng thanh toán học phí trước ngày lớp học bắt đầu để admin thêm bạn vào lớp.\nThông tin liên hệ:\n\t - Ông: Đỗ Chiếm Dương\n\t - Email: chiemduong.dp.cntt@gmail.com\n\t - SDT: 0976453651</string>
+
+</resources>

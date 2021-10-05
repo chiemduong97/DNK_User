@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_home"
+        android:title="HOME"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_home"
+         />
+    <item android:id="@+id/menu_phieu"
+        android:title="NOTE"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_phieu"
+        />
+    <item android:id="@+id/menu_congdong"
+        android:title="COMMUNITY"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_congdong"
+        />
+    <item android:id="@+id/menu_person"
+        android:title="PERSON"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_person"
+        />
+</menu>
